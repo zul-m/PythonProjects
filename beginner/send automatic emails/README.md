@@ -12,7 +12,7 @@ So in the project, you will go through how to send automatic emails using Python
 
 It is very important to generate a Google app password for your Gmail account, as you will be sending automatic emails using Python through your Gmail account.
 
-In the code, you have defined a Python function that will automatically send emails to a newly registered user. This function will start by asking for the user’s name and email. Then the user’s name will be stored in the message. **Then in the 12th line of the code above, you need to replace the first parameter with your email and the second parameter with the google app password you generated before.** After that just run the above code and you will see the output as shown below.
+In the code, you have defined a Python function that will automatically send emails to a newly registered user. This function will start by asking for the user’s name and email. Then the user’s name will be stored in the message. **Then in the 12th line of the code above, you need to replace the first parameter with your email and the second parameter with the google app password you generated before.** After that just run the code and you will see the output as shown below.
 
 ### Output
 
