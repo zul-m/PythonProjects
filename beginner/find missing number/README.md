@@ -10,8 +10,6 @@ Finding the missing number in an array means finding the numbers missing from th
 
 To find the missing number in an array, we need to iterate over the input array and store the numbers in another array that we didn’t find in the input array while iterating over it.
 
-You can find many more coding interview questions and Python projects [here](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb).
-
 ### Output
 
 ```

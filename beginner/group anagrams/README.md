@@ -6,8 +6,6 @@
 
 Grouping anagrams is one of the popular questions in coding interviews. Here you will be given a list of words, and you have to write an algorithm to group all the words which are anagrams of each other. Test the function by creating a list of words containing anagrams and some other words.
 
-It’s valuable to practice coding interviews to improve your programming logic and coding skills. You can practice many more coding interview questions and Python projects from [here](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb).
-
 ### Output
 
 ```
