@@ -9,9 +9,6 @@ To write a Python program to detect whether a sentence is a question or not, we 
 ### Output
 
 ```
-[nltk_data] Downloading package punkt to
-[nltk_data]     C:\Users\mumu\AppData\Roaming\nltk_data...
-[nltk_data]   Package punkt is already up-to-date!
 Input a sentence: Do you have any feelings for me?
 This is a question!
 ```
