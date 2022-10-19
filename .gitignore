@@ -3,3 +3,6 @@ github.png
 
 # Ignore the recording file generated from the voice recorder project.
 record.wav
+
+# Ignore the csv file generated from the reading and writing csv files project.
+age_data.csv
