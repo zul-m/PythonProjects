@@ -1,2 +1,5 @@
 # Ignore the QR code generated file from the qr code project.
 github.png
+
+# Ignore the recording file generated from the voice recorder project.
+record.wav
