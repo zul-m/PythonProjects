@@ -18,7 +18,12 @@ This is how to visualize a box plot using Python. I start by importing the neces
 ### Output
 
 ```
-
+      TV  Radio  Newspaper  Sales
+0  230.1   37.8       69.2   22.1
+1   44.5   39.3       45.1   10.4
+2   17.2   45.9       69.3   12.0
+3  151.5   41.3       58.5   16.5
+4  180.8   10.8       58.4   17.9
 ```
 
 ### Summary
