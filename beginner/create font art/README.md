@@ -25,7 +25,7 @@ Here I’m just going to print my name as an output in an amazing font art using
 
 ```
 
-The above font is the default font style provided by the PyFiglet library in Python. If you want to change the font of the output, you can change it using the font parameter `pyfiglet.figlet_format(‘Zul-M’, **font** = ”font name”)`. You can find many font styles supported by this library [here](http://www.figlet.org/fontdb.cgi).
+The above font is the default font style provided by the PyFiglet library in Python. If you want to change the font of the output, you can change it using the font parameter `pyfiglet.figlet_format(‘Zul-M’, font = ”font name”)`. You can find many font styles supported by this library [here](http://www.figlet.org/fontdb.cgi).
 
 ### Summary
 
