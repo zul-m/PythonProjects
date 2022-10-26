@@ -12,3 +12,6 @@ age_data.csv
 
 # Ignore the jpg file generated from the collage maker project.
 collage.jpg
+
+# Ignore the png file generated from the text to handwriting project.
+handwriting.png
