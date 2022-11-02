@@ -7,7 +7,7 @@ There are so many card games today where you choose a card at random from a deck
 To pick a random card using Python you first have to store all the cards in a data structure. So before storing a card in a data structure let’s understand what types of cards are there in a deck of cards. Below is a table that shows the type of cards present in a deck of cards.
 
 <p align="center">
- <img width="75%" src="./deck.png" align="center" alt="Deck of cards" />
+ <img width="70%" src="./deck.png" align="center" alt="Deck of cards" />
 </p>
 
 So according to the above table, a deck of cards have four sets of cards including hearts, clubs, spades and diamonds. These sets of cards are known as suites, each suite has thirteen cards which starts from 2 to 10 and then are continued with Jack, Queen, king and Ace in each suite.
