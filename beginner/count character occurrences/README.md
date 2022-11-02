@@ -12,7 +12,6 @@ In the code, we step through each character in the input string. If the characte
 
 ```
 {'P': 2, 'y': 1, 't': 2, 'h': 1, 'o': 2, 'n': 1, 'r': 1, 'j': 1, 'e': 1, 'c': 1, 's': 1}
-None
 ```
 
 ### Summary
