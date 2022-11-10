@@ -15,7 +15,7 @@ Breadth-first search can be applied to both directed and undirected graphs. It s
 The above process is depicted in the image below. The image below shows how the Breadth-First Search visits the vertices at all levels one by one.
 
 <p align="center">
- <img width="70%" src="./algorithm.png" align="center" alt="Process of Breadth-First Search Algorithm" />
+ <img width="60%" src="./algorithm.png" align="center" alt="Process of Breadth-First Search Algorithm" />
 </p>
 
 ### Breadth-First Search using Python
