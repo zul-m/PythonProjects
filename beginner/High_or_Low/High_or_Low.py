@@ -2,6 +2,7 @@ import random
 n=random.randint(1,100)
 chances_to_guess=3
 guessed=False;
+print("Guess a number: ")
 while chances_to_guess>0:
 	guess=int(input())
 	if(guess==n):
