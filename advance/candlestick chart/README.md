@@ -6,7 +6,7 @@ A candlestick chart is a data visualization tool used to analyze the price movem
 
 To visualize a candlestick chart using the Python programming language, you can use any data visualization library in Python like `Matplotlib` or `Plotly`. The `plotly` library provides better features for visualizing a candlestick chart and also makes it interactive at the same time. So in this project, I will be using the `plotly` library for visualizing a candlestick chart.
 
-As this chart is mainly used to analyze the price movements of financial instruments, so I will be using the Apple stock price data for this task. I have collected data on Apple’s stock price for the past three months from [Yahoo Finance](https://finance.yahoo.com/quote/AAPL/history?p=AAPL). You can either collect a dataset from Yahoo Finance or download the same dataset I’m using for this task from here.
+As this chart is mainly used to analyze the price movements of financial instruments, so I will be using the Apple stock price data for this task. I have collected data on Apple’s stock price for the past three months from [Yahoo Finance](https://finance.yahoo.com/quote/AAPL/history?p=AAPL). You can either collect a dataset from Yahoo Finance or download the same dataset I’m using for this task from [here](https://raw.githubusercontent.com/zul-m/PythonProjects/main/AAPL.csv).
 
 ### Summary
 
