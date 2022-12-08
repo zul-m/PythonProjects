@@ -15,3 +15,6 @@ collage.jpg
 
 # Ignore the png file generated from the text to handwriting project.
 handwriting.png
+
+# Ignore the csv file generated from the get live covid-19 data project.
+Dataset.csv
