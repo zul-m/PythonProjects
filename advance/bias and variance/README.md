@@ -19,7 +19,8 @@ pip install mlxtend
 ### Output
 
 ```
-
+Average Bias: 4.71025504206618
+Average Variance: 0.08793102438553047
 ```
 
 ### Summary
