@@ -17,7 +17,7 @@ Then, we implement the algorithm to find the most profitable amount while buying
 ### Output
 
 ```
-
+25
 ```
 
 ### Summary
