@@ -21,3 +21,6 @@ Dataset.csv
 
 # Ignore history files.
 /.history
+
+# Ignore the png file generated from the histogram and density plots project.
+histogram.png
