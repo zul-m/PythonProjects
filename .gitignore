@@ -24,3 +24,4 @@ Dataset.csv
 
 # Ignore the png file generated from the histogram and density plots project.
 histogram.png
+density-plots.png
