@@ -23,4 +23,4 @@ Winning percentage while changing choice: 0.666618
 
 ### Summary
 
-I hope you liked this article on simulating the Monty Hall problem with Python programming language.
+I hope you liked this project on simulating the Monty Hall problem with Python programming language.
