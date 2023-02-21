@@ -22,6 +22,9 @@ Dataset.csv
 # Ignore history files.
 /.history
 
+# Ignore any vscode files.
+/.vscode
+
 # Ignore the png file generated from the histogram and density plots project.
 histogram.png
 density-plots.png
