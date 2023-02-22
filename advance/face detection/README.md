@@ -26,7 +26,7 @@ First you need to install the OpenCV library in Python which can be easily insta
 pip install opencv-python
 ```
 
-`OpenCV` library in python is blessed with many pre-trained classifiers for face, eyes, smile, etc. These XML files are stored in a folder. We will use the face detection model. You can download the pre-trained face detection model from [here](https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml).
+`OpenCV` library in python is blessed with many pre-trained classifiers for face, eyes, smile, etc. These XML files are stored in a folder. We will use the face detection model. You can download the pre-trained face detection model from [here](https://raw.githubusercontent.com/zul-m/PythonProjects/main/face_detector.xml).
 
 The next step is to choose an image on which you want to test your code. Make sure there is at least one face in the image so that the face detection program can find at least one face.
 
