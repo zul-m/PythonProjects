@@ -32,3 +32,6 @@ histogram_density-plots.png
 
 # Ignore the mp3 file generated from the video to audio converter project.
 PUGGCbv4FZs.mp3
+
+# Ignore the png file generated from the face detection project.
+face_detected.png
