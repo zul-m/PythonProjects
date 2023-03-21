@@ -1,6 +1,6 @@
 ## Count Number of Rainy Days in a Year
 
-Imagine you have a data series that represents the amount of precipitation each day for a year in a given city. For this task of numerical computing with python to count rainy days within a year, I start this off by loading the data, that you can download from here.
+Imagine you have a data series that represents the amount of precipitation each day for a year in a given city. For this task of numerical computing with python to count rainy days within a year, I start this off by loading the data, that you can download from [here](https://raw.githubusercontent.com/zul-m/PythonProjects/main/Seattle2014.csv).
 
 The table contains 365 values, giving the daily precipitation in inches from January 1 to December 31, 2014.
 
