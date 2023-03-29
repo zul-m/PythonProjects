@@ -35,3 +35,6 @@ PUGGCbv4FZs.mp3
 
 # Ignore the png file generated from the face detection project.
 face_detected.png
+
+# Ignore the mp3 file generated from the text to speech converters project.
+read_article.mp3
