@@ -13,4 +13,3 @@ The important topics we will cover in this tutorial are as follows:
 ### Python Clock App with Kivy
 
 Our finished program will only be about 60 lines long, split equally between a Python source code and a Kivy language (.kv) interface definition file.
-
